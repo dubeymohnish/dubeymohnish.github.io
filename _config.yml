@@ -67,11 +67,11 @@ content:
           Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
       
       - layout: top-middle
-        title: AskNowNQS
-        link: source code https://github.com/AskNowQA/AskNowNQS
+        title: LC-QuAD
+        link: http://lc-quad.sda.tech
         description: | # this will include new lines to allow paragraphs
-          Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
-  
+          LC-QuAD: Lead the project with aim to create a Question Answering data set with the pair of Natural Language question to their corresponding SPARQL query. LC-QuAD 1.0 published a dataset of 5,000 question over DBpedia. LC-QuAD 2.0 published a dataset of 30,000 question over Wikidata.
+
       
 - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
