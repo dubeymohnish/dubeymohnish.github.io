@@ -51,8 +51,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Hi, my name is Mohnish Dubey, and I am a Researcher at Smart Data Analytics and Dialogue Engineer at Fraunhofer IAIS. 
-I recently defended my PhD Thesis, and soon I will get my official doctor's degree. I have worked in the research area of Question Answering over Knowledge Graphs, Entity Linking, Relation Linking, Large Dataset Generation, Answer Representation. 
+                Hi, my name is Mohnish Dubey, and I am a Researcher at Smart Data Analytics and Dialogue Engineer at Fraunhofer IAIS. 
+                I recently defended my PhD Thesis, and soon I will get my official doctor's degree. I have worked in the research area of Question Answering over Knowledge Graphs, Entity Linking, Relation Linking, Large Dataset Generation, Answer Representation. 
 
 content:
   - title: Projects # Title for the section
