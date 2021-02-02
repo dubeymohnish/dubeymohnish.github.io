@@ -6,26 +6,28 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
+name: Mohnish Dubey
+title: Researcher at Smart Data Analytics, University of Bonn, Germany
+title: Dialogue Engineer at Fraunhofer IAIS, Dresden, Germany
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: https://twitter.com/MohnishDubey
+github_username:  https://github.com/mohnish.rygbee
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: https://www.instagram.com/mohnishdubey5/
+linkedin_username: https://www.linkedin.com/in/mohnish-dubey-bonn/
+google_scholar: https://scholar.google.de/citations?user=rq9BsgcAAAAJ&hl=en
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
