@@ -8,23 +8,23 @@ version: 2
 # Personal info
 name: Mohnish Dubey
 title: Researcher at Smart Data Analytics, University of Bonn, Germany
-title: Dialogue Engineer at Fraunhofer IAIS, Dresden, Germany
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+       Dialogue Engineer at Fraunhofer IAIS, Dresden, Germany
+email: dubey.mohnish5@gmail.com
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
-twitter_username: https://twitter.com/MohnishDubey
-github_username:  https://github.com/mohnish.rygbee
+twitter_username: MohnishDubey
+github_username:  mohnish.rygbee
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: https://www.instagram.com/mohnishdubey5/
-linkedin_username: https://www.linkedin.com/in/mohnish-dubey-bonn/
-google_scholar: https://scholar.google.de/citations?user=rq9BsgcAAAAJ&hl=en
+instagram_username: mohnishdubey5
+linkedin_username: mohnish-dubey-bonn
+#google_scholar: https://scholar.google.de/citations?user=rq9BsgcAAAAJ&hl=en
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -33,9 +33,9 @@ google_scholar: https://scholar.google.de/citations?user=rq9BsgcAAAAJ&hl=en
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: Google Scholar
+  icon: fas fa-graduation-cap
+  url: https://scholar.google.de/citations?user=rq9BsgcAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
