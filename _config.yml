@@ -65,12 +65,14 @@ content:
         link: source code https://github.com/AskNowQA/AskNowNQS
         description: | # this will include new lines to allow paragraphs
           Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
-  
-       title: AskNowNQS
+      
+       - layout: top-middle
+        title: AskNowNQS
         link: source code https://github.com/AskNowQA/AskNowNQS
         description: | # this will include new lines to allow paragraphs
           Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
   
+      
 - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
