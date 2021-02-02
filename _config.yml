@@ -59,19 +59,22 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-       - layout: top-middle
-         title: AskNowNQS
-         link: source code https://github.com/AskNowQA/AskNowNQS
-         description: | # this will include new lines to allow paragraphs
-                      Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
-      
       - layout: top-middle
-        title: LC-QuAD
-        link: http://lc-quad.sda.tech
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-                     LC-QuAD: Lead the project with aim to create a Question Answering data set with the pair of Natural Language question to their corresponding SPARQL query. LC-QuAD 1.0 published a dataset of 5,000 question over DBpedia. LC-QuAD 2.0 published a dataset of 30,000 question over Wikidata.
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-      
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
