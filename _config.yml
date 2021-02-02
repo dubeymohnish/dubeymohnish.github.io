@@ -9,6 +9,7 @@ version: 2
 name: Mohnish Dubey
 title: |
     Researcher at Smart Data Analytics, University of Bonn, Germany
+
     Dialogue Engineer at Fraunhofer IAIS, Dresden, Germany
 email: dubey.mohnish5@gmail.com
 #website: www.github.com/sproogen/resume-theme
@@ -93,26 +94,26 @@ content:
         # link_text: boringcompany.com
         sub_title: Dialogue Engineer 
         caption: October 2017 - Present
-        description: 
-            - layout: top-middle
+        project: 
+            - layout: right
               title: AskNowNQS - Translating natural langauge question to formal query using an intermediate state.
               link: source code https://github.com/AskNowQA/AskNowNQS
               description: | # this will include new lines to allow paragraphs
                 Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
                 
-            - layout: top-middle
+            - layout: right
               title: LC-QuAD- Generating Large scale dataset for Question Answering over Knowledge Graph.
               link: http://lc-quad.sda.tech
               description: | # this will include new lines to allow paragraphs
                  LC-QuAD: Lead the project with aim to create a Question Answering data set with the pair of Natural Language question to their corresponding SPARQL query. LC-QuAD 1.0 published a dataset of 5,000 question over DBpedia. LC-QuAD 2.0 published a dataset of 30,000 question over Wikidata.
       
-            - layout: top-middle
+            - layout: right
               title: EARL- Joint task of Entity and Relation Linking.
               link: https://github.com/AskNowQA/EARL
               description: | # this will include new lines to allow paragraphs
                 Here we developed the component to performs entity linking and relation linking as a joint single task
       
-            - layout: top-middle
+            - layout: right
               title: Question Answering over Video Annotation
               link: http://lc-quad.sda.tech
               description: | # this will include new lines to allow paragraphs
