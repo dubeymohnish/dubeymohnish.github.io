@@ -7,10 +7,8 @@ version: 2
 
 # Personal info
 name: Mohnish Dubey
-title: | 
-       Researcher at Smart Data Analytics, University of Bonn, Germany
-
-       Dialogue Engineer at Fraunhofer IAIS, Dresden, Germany
+- title: Researcher at Smart Data Analytics, University of Bonn, Germany
+- title: Dialogue Engineer at Fraunhofer IAIS, Dresden, Germany
 email: dubey.mohnish5@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -59,19 +57,18 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-       - project1:
-              layout: top-middle
-              title: AskNowNQS
-              link: source code https://github.com/AskNowQA/AskNowNQS
-              description: | # this will include new lines to allow paragraphs
-                            Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
+    content:
+       - layout: top-middle
+         title: AskNowNQS
+         link: source code https://github.com/AskNowQA/AskNowNQS
+         description: | # this will include new lines to allow paragraphs
+                      Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
       
-      - project2:
-              layout: top-middle
-              title: LC-QuAD
-              link: http://lc-quad.sda.tech
-              description: | # this will include new lines to allow paragraphs
-                            LC-QuAD: Lead the project with aim to create a Question Answering data set with the pair of Natural Language question to their corresponding SPARQL query. LC-QuAD 1.0 published a dataset of 5,000 question over DBpedia. LC-QuAD 2.0 published a dataset of 30,000 question over Wikidata.
+      - layout: top-middle
+        title: LC-QuAD
+        link: http://lc-quad.sda.tech
+        description: | # this will include new lines to allow paragraphs
+                     LC-QuAD: Lead the project with aim to create a Question Answering data set with the pair of Natural Language question to their corresponding SPARQL query. LC-QuAD 1.0 published a dataset of 5,000 question over DBpedia. LC-QuAD 2.0 published a dataset of 30,000 question over Wikidata.
 
       
   - title: Experience # Title for the section
