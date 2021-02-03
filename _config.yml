@@ -76,7 +76,7 @@ content:
         title: EARL - Joint task of Entity and Relation Linking.
         link: https://github.com/AskNowQA/EARL
         description: | # this will include new lines to allow paragraphs
-          Here we developed the component to performs entity linking and relation linking as a joint single task
+          Here we developed the component to performs entity linking and relation linking as a joint single task. We explored two approaches, first by modeling the problem to Generalised Travelling Salesman Problem and second using machine learning in order to exploit the connection density between nodes in the knowledge graph.
       
       - layout: top-middle
         title: Question Answering over Video Annotation
@@ -93,8 +93,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Dialogue Engineer 
         caption: October 2017 - Present
-        description: > # this will include new lines to allow paragraphs
-            - Working on Semantic Question Answering over Knowledge Graph
+        description: | # this will include new lines to allow paragraphs
+            - Working on Semantic Question Answering over Knowledge Graph.
             - Lead developer in projects on Question Answering over Video Annotations in German language.
             - Supported with evaluation on Dialogue System for Car Infotainment. 
             - Currently working on generating Question Answering benchmarking for Conversation AI systems in specific domains such as COVID-19 data, and Financial reports.
@@ -140,13 +140,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Bonn
+        caption: Jan 2016 - Jan 2021
+        sub_title: Ph.D. in Computer Science
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my PhD at the University of Bonn, I was a part of the Smart Data Analytics group lead by Prof. Jens Lehmann. 
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: DA-IICT, India
+        caption: 2012 - 2014
+        sub_title: Master of Technology
+        description: | # this will include new lines to allow paragraphs
+          At Technology Dhirubhai Ambani Institute of Information & Communication Technology,  I completed my master's degree with machine intelligence speciation. In my master thesis, I worked on the normalization of negative sentences. Here I was first introduced to Semantic Web by Dr Sourish Dasgupta.       
+
+      - layout: left
+        title: JNCT, Bhopal India
+        caption: 2008 - 2012
+        sub_title: Bachelor of Engineering
+        description: | # this will include new lines to allow paragraphs
+          I completed my Engineering degree in Computer Science at Jai Narain College of Technology affiliated to Rajiv Gandhi Proudyogiki Vishwavidyalaya, India. During my last year, I scored 98 percentile in the GATE exam, motivating me to study computer science further. 
+          
 
   - title: A Little More About Me
     layout: text
@@ -157,8 +170,8 @@ content:
       - Picked up intrest in Travelling during my PhD.
       - Listening music.
 
-      #Look at this cool image  
-      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+# Look at this cool image  
+# ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
