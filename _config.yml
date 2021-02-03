@@ -66,21 +66,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
       
-      - layout: top-left
-        title: LC-QuAD- Generating Large scale dataset for Question Answering over Knowledge Graph.
+      - layout: top-middle
+        title: LC-QuAD - Generating Large scale dataset for Question Answering over Knowledge Graph.
         link: http://lc-quad.sda.tech
         description: | # this will include new lines to allow paragraphs
           LC-QuAD: Lead the project with aim to create a Question Answering data set with the pair of Natural Language question to their corresponding SPARQL query. LC-QuAD 1.0 published a dataset of 5,000 question over DBpedia. LC-QuAD 2.0 published a dataset of 30,000 question over Wikidata.
       
       - layout: top-middle
-        title: EARL- Joint task of Entity and Relation Linking.
+        title: EARL - Joint task of Entity and Relation Linking.
         link: https://github.com/AskNowQA/EARL
         description: | # this will include new lines to allow paragraphs
           Here we developed the component to performs entity linking and relation linking as a joint single task
       
       - layout: top-middle
         title: Question Answering over Video Annotation
-        link: http://lc-quad.sda.tech
         description: | # this will include new lines to allow paragraphs
           In this internal Fraunhofer project we developed a template based question answering system over ARD Video annotations, to fetch videos based on user’s input in German language.
 
@@ -95,10 +94,10 @@ content:
         sub_title: Dialogue Engineer 
         caption: October 2017 - Present
         description: > # this will include new lines to allow paragraphs
-            Working on Semantic Question Answering over Knowledge Graph
-            Lead developer in projects on Question Answering over Video Annotations in German language.
-            Supported with evaluation on Dialogue System for Car Infotainment. 
-            Currently working on generating Question Answering benchmarking for Conversation AI systems in specific domains such as COVID-19 data, and Financial reports.
+            - Working on Semantic Question Answering over Knowledge Graph
+            - Lead developer in projects on Question Answering over Video Annotations in German language.
+            - Supported with evaluation on Dialogue System for Car Infotainment. 
+            - Currently working on generating Question Answering benchmarking for Conversation AI systems in specific domains such as COVID-19 data, and Financial reports.
 
             
       - layout: left
@@ -108,11 +107,11 @@ content:
         sub_title: Researcher and PhD Student
         caption: January 2016 - Present
         description: | # this will include new lines to allow paragraphs
-            Defended Ph.D. Thesis on Question Answering over Knowledge Graph (KGQA). (January 2021)
-            Published state of the art systems on KGQA, Entity and Relation Linking and Dataset generation.
-            Managed and supervised student assistants for KGQA project, AskNow. 
-            Conducted research on Answer Representation and managed UI development for KGQA.
-            Conducted NLP Labs and Seminars, currently also mentoring master student projects
+            - Defended Ph.D. Thesis on Question Answering over Knowledge Graph (KGQA). (January 2021)
+            - Published state of the art systems on KGQA, Entity and Relation Linking and Dataset generation.
+            - Managed and supervised student assistants for KGQA project, AskNow. 
+            - Conducted research on Answer Representation and managed UI development for KGQA.
+            - Conducted NLP Labs and Seminars, currently also mentoring master student projects
 
       
       - layout: left
@@ -124,6 +123,19 @@ content:
         description: | # this will include new lines to allow paragraphs
             In the six month internship worked and gained knowledge in the field of Semantic Web and Question Answering. 
 
+  - title: Research Publication
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - PNEL: Pointer Network based End-To-End Entity Linking over Knowledge Graphs, Debayan Banerjee, Debanjan Chaudhuri, Mohnish Dubey and Jens Lehmann, in Proceedings of International Semantic Web Conference 2020 
+      - IQA: Interactive query construction in semantic question answering systems, By Hamid Zafar, Mohnish Dubey, Jens Lehmann, Elena Demidova, in Journal of Web Semantics.
+      - LC-QuAD 2.0: A large dataset for complex question answering over Wikidata and DBpedia By Mohnish Dubey, Debayan Banerjee, Abdelrahman Abdelkawi, Jens Lehmann in Proceedings of International Semantic Web Conference 2019, New Zealand
+      - EARL: Joint Entity and Relation Linking for Question Answering over Knowledge Graphs by Mohnish Dubey, Debayan Banerjee, Debanjan Chaudhuri and Jens Lehmann in Proceedings of International Semantic Web Conference 2018
+      - LC-QuAD : A Corpus for Complex Question Answering over Knowledge Graphs by Priyansh Trivedi, Gaurav Maheshwari, Mohnish Dubey and Jens Lehmanni in Proceedings of the International Semantic Web Conference 2017.
+      - How to Revert Question Answering on Knowledge Graphs by Gaurav Maheshwari, Mohnish Dubey, Priyansh Trivedi and Jens Lehmann. In Proceedings of the International Semantic Web Conference 2017.
+      - AskNow: A Framework for Natural Language Query Formalization in SPARQL by Mohnish Dubey, Sourish Dasgupta, Ankit Sharma, Konrad Hoffner, and Jens Lehmann in Proceedings of the Extended Semantic Web Conference 2016.
+      - VANiLLa : Verbalised ANswers in Natural Language at Large scale by Debanjali Biswas, Mohnish Dubey, Md Rashad Al Hasan Rony and Jens Lehmann, under review process.
+  
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -131,8 +143,6 @@ content:
         title: Harvard University
         caption: 2010 - 2013
         sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -141,14 +151,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in research some of my other interests and hobbies are:
+      - Huge fan of Cricket.
+      - Photo editing and graphics.
+      - Picked up intrest in Travelling during my PhD.
+      - Listening music.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      #Look at this cool image  
+      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
