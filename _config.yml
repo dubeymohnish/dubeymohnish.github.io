@@ -60,28 +60,51 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: AskNowNQS - Translating natural langauge question to formal query using an intermediate state.
-        link: source code https://github.com/AskNowQA/AskNowNQS
+      - layout: left
+        title: AskNowNQS For Question Answering over Knowledge Graph
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Dialogue Engineer 
+        caption: July 2015 - July 2016
         description: | # this will include new lines to allow paragraphs
-          Lead to the development of question answering system over DBpedia. Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
+          - Lead to the development of question answering system over DBpedia. 
+          - Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
+          - A rule based system for question answering over DBpedia Knowledge Graph
+          - source code https://github.com/AskNowQA/AskNowNQS
       
-      - layout: top-middle
-        title: LC-QuAD - Generating Large scale dataset for Question Answering over Knowledge Graph.
-        link: http://lc-quad.sda.tech
+      - layout: left
+        title: LC-QuAD- Large scale Complex Question Answering Dataset.
+        caption: March 2017 - present
         description: | # this will include new lines to allow paragraphs
-          LC-QuAD: Lead the project with aim to create a Question Answering data set with the pair of Natural Language question to their corresponding SPARQL query. LC-QuAD 1.0 published a dataset of 5,000 question over DBpedia. LC-QuAD 2.0 published a dataset of 30,000 question over Wikidata.
+          - Lead the project with aim to create a Question Answering data set with the pair of Natural Language question to their corresponding SPARQL query. 
+          - LC-QuAD 1.0 published a dataset of 5,000 question over DBpedia. 
+          - LC-QuAD 2.0 published a dataset of 30,000 question over Wikidata.
+          - project website: http://lc-quad.sda.tech
       
-      - layout: top-middle
-        title: EARL - Joint task of Entity and Relation Linking.
-        link: https://github.com/AskNowQA/EARL
+      - layout: left
+        title: EARL - Entity and Relation Linking for KGQA
+        caption: September 2017 - December 2018
         description: | # this will include new lines to allow paragraphs
-          Here we developed the component to performs entity linking and relation linking as a joint single task. We explored two approaches, first by modeling the problem to Generalised Travelling Salesman Problem and second using machine learning in order to exploit the connection density between nodes in the knowledge graph.
+          - Developed the component to performs entity linking and relation linking as a joint single task. 
+          - First by modeling the problem to Generalised Travelling Salesman Problem. 
+          - Second using machine learning in order to exploit the connection density between nodes in the knowledge graph.
+          - Source code: https://github.com/AskNowQA/EARL
       
-      - layout: top-middle
+      - layout: left
         title: Question Answering over Video Annotation
+        caption: January 2018 - June 2018
         description: | # this will include new lines to allow paragraphs
-          In this internal Fraunhofer project we developed a template based question answering system over ARD Video annotations, to fetch videos based on user’s input in German language.
+          - In this internal Fraunhofer project we developed a template based question answering system 
+          - We targeted ARD Video annotations, and fetch videos based on user’s input in German language.
+          
+      - layout: left
+        title: VANiLLa - A dataset for better Answer Representation 
+        caption: January 2020 - December 2020
+        description: | # this will include new lines to allow paragraphs
+          - A large scale dataset for answer verbaliser for simple natural questions. 
+          - The answer in this dataset are syntactically and semantically closer to the question than to the KG triple.
+          - Website https://sda.tech/projects/vanilla/
+          
 
 
   - title: Experience # Title for the section
@@ -121,7 +144,9 @@ content:
         sub_title: Guest Researcher
         caption: June 2015 - December 2015
         description: | # this will include new lines to allow paragraphs
-            In the six month internship worked and gained knowledge in the field of Semantic Web and Question Answering. 
+            - In the six month internship worked and gained knowledge in the field of Semantic Web and Question Answering. 
+            - Learned about Knowledge gGraphs and SPARQL Query.
+            - Worked on rule based translation of English Questions to SPARQL query.
 
   - title: Research Publication
     layout: text
@@ -145,6 +170,7 @@ content:
         sub_title: Ph.D. in Computer Science
         description: | # this will include new lines to allow paragraphs
           During my PhD at the University of Bonn, I was a part of the Smart Data Analytics group lead by Prof. Jens Lehmann. 
+          
 
       - layout: left
         title: DA-IICT, India
