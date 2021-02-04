@@ -70,7 +70,7 @@ content:
           - Lead to the development of question answering system over DBpedia. 
           - Here Natural language questions are normalized into an intermediary canonical syntactic form and then translated into a SPARQL
           - A rule based system for question answering over DBpedia Knowledge Graph
-          - source code https://github.com/AskNowQA/AskNowNQS
+          - source code [https://github.com/AskNowQA/AskNowNQS](https://github.com/AskNowQA/AskNowNQS)
       
       - layout: left
         title: LC-QuAD- Large scale Complex Question Answering Dataset.
@@ -79,7 +79,7 @@ content:
           - Lead the project with aim to create a Question Answering data set with the pair of Natural Language question to their corresponding SPARQL query. 
           - LC-QuAD 1.0 published a dataset of 5,000 question over DBpedia. 
           - LC-QuAD 2.0 published a dataset of 30,000 question over Wikidata.
-          - project website: http://lc-quad.sda.tech
+          - project website: [http://lc-quad.sda.tech](http://lc-quad.sda.tech)
       
       - layout: left
         title: EARL - Entity and Relation Linking for KGQA
@@ -88,7 +88,7 @@ content:
           - Developed the component to performs entity linking and relation linking as a joint single task. 
           - First by modeling the problem to Generalised Travelling Salesman Problem. 
           - Second using machine learning in order to exploit the connection density between nodes in the knowledge graph.
-          - Source code: https://github.com/AskNowQA/EARL
+          - Source code: [https://github.com/AskNowQA/EARL](https://github.com/AskNowQA/EARL)
       
       - layout: left
         title: Question Answering over Video Annotation
@@ -103,7 +103,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - A large scale dataset for answer verbaliser for simple natural questions. 
           - The answer in this dataset are syntactically and semantically closer to the question than to the KG triple.
-          - Website https://sda.tech/projects/vanilla/
+          - Website [https://sda.tech/projects/vanilla/](https://sda.tech/projects/vanilla/)
           
 
 
