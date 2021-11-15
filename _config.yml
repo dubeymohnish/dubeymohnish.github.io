@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Mohnish Dubey
 title: >
-    Senior Researcher at Smart Data Analytics, University of Bonn, and
+    Senior Researcher at Smart Data Analytics, and
     Project Leader at InfAI Dresden, Germany.
 email: dubey.mohnish5@gmail.com
 #website: www.github.com/sproogen/resume-theme
@@ -51,10 +51,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-                Hi, my name is Mohnish Dubey, and I am a Senior Researcher at Smart Data Analytics and InfAI. Currently, I am a workpackage leader in the e-VITA project, working towards designing knowledeg graph based dailogue system to support active healthy ageing. 
+                Hi, my name is Mohnish Dubey, and I am a Senior Researcher at Smart Data Analytics and InfAI. Currently, I am leading the e-VITA project at InfAI, working towards designing knowledege graph based dailogue system to support active and healthy ageing. 
 
-                Previously, I have worked as a Dialogue Engineer at Fraunhofer IAIS for more than three years. In 2021, I compeleted my PhD at University of Bonn Germany. 
-                I have worked in the research area of Question Answering over Knowledge Graphs, Entity Linking, Relation Linking, Large Dataset Generation, Answer Representation, and general NLP and KG tasks.
+                Previously, I have worked as a Dialogue Engineer at Fraunhofer IAIS for more than three years. In 2021, I compeleted my PhD from University of Bonn, Germany. 
+                I have worked in the research area of Question Answering over Knowledge Graphs, Dialogue Systems, Entity Linking, Relation Linking, Large Dataset Generation, Answer Representation, and general NLP and KG tasks.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
