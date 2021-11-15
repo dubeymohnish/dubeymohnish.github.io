@@ -8,9 +8,9 @@ version: 2
 # Personal info
 name: Mohnish Dubey
 title: >
-    Researcher at Smart Data Analytics, University of Bonn, and
-
-    Dialogue Engineer at Fraunhofer IAIS, Dresden, Germany
+    Senior Researcher at Smart Data Analytics, University of Bonn, and
+    Workpackage Leader at InfAI Dresden, and
+    Ex Dialogue Engineer at Fraunhofer IAIS, Dresden, Germany
 email: dubey.mohnish5@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -52,10 +52,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-                Hi, my name is Mohnish Dubey, and I am a Researcher at Smart Data Analytics and Dialogue Engineer at Fraunhofer IAIS. 
+                Hi, my name is Mohnish Dubey, and I am a Senior Researcher at Smart Data Analytics and InfAI. Currently, I am a workpackage leader in the e-VITA project, working towards designing knowledeg graph based dailogue system to support active healthy aging. 
 
-                I recently defended my PhD Thesis, and soon I will get my official doctor's degree. I have worked in the research area of Question Answering over Knowledge Graphs, Entity Linking, Relation Linking, Large Dataset Generation, Answer Representation. 
-
+                Previously I have Dialogue Engineer at Fraunhofer IAIS. In 2021, I defended compeleted my PhD at University of Bonn Germany. 
+                I have worked in the research area of Question Answering over Knowledge Graphs, Entity Linking, Relation Linking, Large Dataset Generation, Answer Representation, and general NLP and KG tasks.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -110,24 +110,26 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+
       - layout: left
-        title: Fraunhofer IAIS , Sankt Augustin / Dresden
+        title: InfAI Dresden
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Dialogue Engineer 
-        caption: October 2017 - Present
+        sub_title: Project Leader in e-VITA project
+        link: https://www.e-vita.coach
+        caption: May 2021 - Ongoing
         description: | # this will include new lines to allow paragraphs
-            - Working on Semantic Question Answering over Knowledge Graph.
-            - Lead developer in projects on Question Answering over Video Annotations in German language.
-            - Supported with evaluation on Dialogue System for Car Infotainment. 
-            - Currently working on generating Question Answering benchmarking for Conversation AI systems in specific domains such as COVID-19 data, and Financial reports.
+            - Developing use-cases and user stories for the dialogue system with the vision of the project of active healthy ageing
+            - Investigating several components(such as translation services) and pipelines to use them to meet the project requirements
+            - Developing a Dialogue system with RASA framework and further integrating Question Answering capabilities.
 
-            
+
       - layout: left
         title: Smart Data Analytics, University of Bonn
         link: https://www.sda.tech
         # link_text: boringcompany.com
-        sub_title: Researcher and PhD Student
+        sub_title: Senoior Researcher
         caption: January 2016 - Present
         description: | # this will include new lines to allow paragraphs
             - Defended Ph.D. Thesis on Question Answering over Knowledge Graph (KGQA). (January 2021)
@@ -135,6 +137,21 @@ content:
             - Managed and supervised student assistants for KGQA project, AskNow. 
             - Conducted research on Answer Representation and managed UI development for KGQA.
             - Conducted NLP Labs and Seminars, currently also mentoring master student projects
+
+
+      - layout: left
+        title: Fraunhofer IAIS , Sankt Augustin / Dresden
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Dialogue Engineer 
+        caption: October 2017 - May 2021
+        description: | # this will include new lines to allow paragraphs
+            - Worked on Semantic Question Answering over Knowledge Graph.
+            - Lead developer in projects on Question Answering over Video Annotations in German language.
+            - Supported with evaluation on Dialogue System for Car Infotainment. 
+            - Generated Question Answering benchmarking for Conversation AI systems in specific domains such as COVID-19 data, and Financial reports.
+
+            
 
       
       - layout: left
