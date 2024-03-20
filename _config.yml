@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Mohnish Dubey
 title: >
-    Scientist in Language and Knowledge Technology
+    Scientist in Language and Knowledge Technology,
     Philips, Research – Eindhoven, Netherlands
 
 email: dubey.mohnish5@gmail.com
@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-                Hi, my name is Mohnish Dubey, and I am a Scientist in Language and Knowledge Technology Philips, Research – Eindhoven, Netherlands
+                Hi, my name is Mohnish Dubey, and I am a Scientist in Language and Knowledge Technology Philips, Research, Netherlands.
                 Previously, I was a Senior Researcher at Smart Data Analytics and leading the e-VITA project at InfAI, working towards designing knowledege graph based dailogue system to support active and healthy ageing. 
 
                 I have worked as a Dialogue Engineer at Fraunhofer IAIS for more than three years. In 2021, I compeleted my PhD from University of Bonn, Germany. 
@@ -114,7 +114,7 @@ content:
 
 
       - layout: left
-        title: Philips, Research – Eindhoven, Netherlands
+        title: Philips - Research, Netherlands
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Scientist in Language and Knowledge Technology
@@ -126,7 +126,7 @@ content:
             - Embraced the dual role of Scrum Master, rigorously applying lean agile principles to guide the team through sprint ceremonies, optimizing workflow for peak performance
             
       - layout: left
-        title: InfAI Dresden
+        title: InfAI Dresden, Germany
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Project Leader in e-VITA project
@@ -153,7 +153,7 @@ content:
 
 
       - layout: left
-        title: Fraunhofer IAIS , Sankt Augustin / Dresden
+        title: Fraunhofer IAIS , Bonn / Dresden, Germany
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Dialogue Engineer 
@@ -168,7 +168,7 @@ content:
 
       
       - layout: left
-        title: AKSW, University of Liepzig
+        title: AKSW, University of Liepzig, Germany
         link: https://www.aksw.org
         # link_text: boringcompany.com
         sub_title: Guest Researcher
