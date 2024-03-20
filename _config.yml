@@ -51,9 +51,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-                Hi, my name is Mohnish Dubey, and I am a Senior Researcher at Smart Data Analytics and InfAI. Currently, I am leading the e-VITA project at InfAI, working towards designing knowledege graph based dailogue system to support active and healthy ageing. 
+                Hi, my name is Mohnish Dubey, and I am a Scientist in Language and Knowledge Technology Philips, Research – Eindhoven, Netherlands
+                Previously, I was a Senior Researcher at Smart Data Analytics and leading the e-VITA project at InfAI, working towards designing knowledege graph based dailogue system to support active and healthy ageing. 
 
-                Previously, I have worked as a Dialogue Engineer at Fraunhofer IAIS for more than three years. In 2021, I compeleted my PhD from University of Bonn, Germany. 
+                I have worked as a Dialogue Engineer at Fraunhofer IAIS for more than three years. In 2021, I compeleted my PhD from University of Bonn, Germany. 
                 I have worked in the research area of Question Answering over Knowledge Graphs, Dialogue Systems, Entity Linking, Relation Linking, Large Dataset Generation, Answer Representation, and general NLP and KG tasks.
 content:
   - title: Projects # Title for the section
@@ -112,12 +113,24 @@ content:
 
 
       - layout: left
+        title: Philips, Research – Eindhoven, Netherlands
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Scientist in Language and Knowledge Technology
+        #link: https://www.e-vita.coach
+        caption: May 2021 - Ongoing
+        description: | # this will include new lines to allow paragraphs
+            - Orchestrating the development of RAG-LLM-based chatbot system designed for nurses. Overseeing aspects such as Total Cost of Ownership, Synthetic Data Generation, and implementing Guardrails within the chatbot to ensure safety and reliability
+            - Knowledge Acquisition and KG construction for Recommendation System aimed at the continuous earning and development of (MR) Technicians.
+            - Embraced the dual role of Scrum Master, rigorously applying lean agile principles to guide the team through sprint ceremonies, optimizing workflow for peak performance
+            
+      - layout: left
         title: InfAI Dresden
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Project Leader in e-VITA project
         link: https://www.e-vita.coach
-        caption: May 2021 - Ongoing
+        caption: June 2021 - May 2022
         description: | # this will include new lines to allow paragraphs
             - Developing use-cases and user stories for the dialogue system with the vision of the project of active healthy ageing
             - Investigating several components(such as translation services) and pipelines to use them to meet the project requirements
